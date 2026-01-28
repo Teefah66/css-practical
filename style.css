@@ -1,0 +1,80 @@
+
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    color: white;
+}
+p{
+    color: rgb(7, 88, 18);
+    font-size: 20px;
+}
+#menu{
+    background-color: blue;
+    width: auto;
+    height: 100px;
+    color: white;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#menu a{
+    background-color: rgb(1, 1, 22);
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 700;
+    color: #fff;
+    display: inline-block;
+}
+#menu a:hover{
+    background-color: rgb(131, 131, 209);
+}
+.menu{
+    background-color: rgb(130, 162, 221);
+    width: auto;
+    height: 400px;
+    margin-top: 5px;
+    border-radius: 5px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.menu h1{
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.menu p{
+    color: #fff;
+    margin-bottom: 30px;
+    
+}
+.menu a{
+    background-color: darkblue;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+    display: inline-block;
+    
+}
+.menu a:hover{
+ background-color: rgb(188, 188, 231);
+}
+#courses{
+   text-align: center;
+   
+   
+}
+#courses h1{
+    color: blue;
+    font-size: 3rem;
+    margin-top: 5px;
+}
+#courses img{
+    width: auto;
+    height: 70px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
